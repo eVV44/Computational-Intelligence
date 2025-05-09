@@ -1,2 +1,2 @@
-# Computational-Intelligence
-Overview of optimization techniques, including evolutionary algorithms, neural networks, reinforcement learning, and sampling methods.
+# Computational Intelligence - Optimization Techniques
+This repository contains work from the Computational Intelligence course at Vrije Universiteit Amsterdam, where I explored a variety of optimization techniques such as evolutionary algorithms, neural networks, reinforcement learning, and sampling methods. Through assignments and projects, I developed a deeper understanding of these algorithms and how to apply them to real-world challenges.
